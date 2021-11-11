@@ -45,7 +45,9 @@ first one.
 
 # The Solution
 
-The solution has been developed using Next.js, Typescript and TailwindCSS.
+The solution has been developed using Next.js, Typescript and TailwindCSS. The online demo can be found here:
+
+[https://birthday-images.vercel.app/](https://birthday-images.vercel.app/)
 
 ## Local installation
 
